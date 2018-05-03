@@ -11,6 +11,18 @@
                 <Label Text="Estos Son los datos Basicos"></Label>
             </StackLayout>
         </ContentPage>
+        <ContentPage Title="Intereses">
+            <StackLayout HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <Label Text="Estos Son los Interesados"></Label>
+            </StackLayout>
+        </ContentPage>
+        <ContentPage Title="Ocupaciones">
+            <StackLayout HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <Label Text="Estos Son las Ocupaciones"></Label>
+            </StackLayout>
+        </ContentPage>
     </TabbedPage.Children>
 
 </TabbedPage>
